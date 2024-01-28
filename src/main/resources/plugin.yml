@@ -1,0 +1,4 @@
+name: SBackpack
+version: '${project.version}'
+main: me.atmosphere.sbackpack.SBackpack
+api-version: '1.20'
