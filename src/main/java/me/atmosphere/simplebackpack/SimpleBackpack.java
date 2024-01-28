@@ -1,4 +1,4 @@
-package me.atmosphere.simplebackpack;git init
+package me.atmosphere.simplebackpack;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
