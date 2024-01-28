@@ -1,4 +1,13 @@
-name: SBackpack
+name: SimpleBackpack
 version: '${project.version}'
-main: me.atmosphere.sbackpack.SBackpack
+main: me.atmosphere.simplebackpack.SimpleBackpack
 api-version: '1.20'
+commands:
+  bphelp:
+    description: help command
+    usage: /bphelp
+    permission: perm.bphelp
+  bp:
+    description: bp command
+    usage: /bp
+    permission: perm.bp
